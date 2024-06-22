@@ -72,3 +72,5 @@ clear
 ./student_info.sh
 ./student_info.sh
 clear
+clear
+./student_info.sh
