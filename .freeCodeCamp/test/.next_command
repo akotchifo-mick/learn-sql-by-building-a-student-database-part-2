@@ -55,3 +55,4 @@ clear
 touch student_info.sh
 chmod
 chmod +x student_info.sh
+./student_info.sh
